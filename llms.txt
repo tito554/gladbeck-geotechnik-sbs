@@ -1,0 +1,38 @@
+# Geotechnik — Gladbeck
+
+> Geotechnical engineering services in Gladbeck, Deutschland.
+
+## Services
+- [Atterberg Grenzen](https://gladbeck.geotechnik.sbs/atterberg-grenzen/)
+- [Bodenplatten](https://gladbeck.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://gladbeck.geotechnik.sbs/bodenverbesserung/)
+- [Cbr Strasse](https://gladbeck.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://gladbeck.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://gladbeck.geotechnik.sbs/erdbebenisolierung/)
+- [Fundamente](https://gladbeck.geotechnik.sbs/fundamente/)
+- [Geophysik](https://gladbeck.geotechnik.sbs/geophysik/)
+- [Grundungen](https://gladbeck.geotechnik.sbs/grundungen/)
+- [In Situ Durchlassigkeit](https://gladbeck.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://gladbeck.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://gladbeck.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://gladbeck.geotechnik.sbs/labor/)
+- [Labor In Situ](https://gladbeck.geotechnik.sbs/labor-in-situ/)
+- [Pfahle](https://gladbeck.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://gladbeck.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://gladbeck.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://gladbeck.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://gladbeck.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://gladbeck.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://gladbeck.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://gladbeck.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://gladbeck.geotechnik.sbs/seismische-refraktion/)
+- [Strassenbau](https://gladbeck.geotechnik.sbs/strassenbau/)
+- [Triaxialversuch](https://gladbeck.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://gladbeck.geotechnik.sbs/untersuchung/)
+
+## Contact
+- Website: https://gladbeck.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Gladbeck, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
